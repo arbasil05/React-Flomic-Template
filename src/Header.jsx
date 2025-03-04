@@ -36,7 +36,7 @@ export function Header_2() {
         <>
             <header className="header-2">
                 <div className="header-2-logo">
-                    <img src="/mainLogo.png" alt="Main Logo" />
+                    <img src="./mainLogo.png" alt="Main Logo" />
                     <div className="header-2-logo-text">
                         <h1>FLOMIC</h1>
                         <h5>LOGISTICS PVT. LTD</h5>
